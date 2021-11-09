@@ -1,6 +1,6 @@
 exCEO, lifelong nerd, inventor, sailor, amateur astrophysicist.
 
-now doing pro bono programming to advance rural broadband and better determine the Baryon Acoustistical Oscillation radus.
+now doing pro bono programming to advance rural broadband and better determine the Baryon Acoustistical Oscillation radius.
 
 More at https://blog.tomevslin.com/about-tom-evslin.html.
 
