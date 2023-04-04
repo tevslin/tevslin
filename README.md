@@ -1,10 +1,10 @@
 exCEO, lifelong nerd, inventor, sailor, amateur astrophysicist.
 
-now doing pro bono programming to advance rural broadband and better determine the Baryon Acoustistical Oscillation radius.
+now doing pro bono programming to advance rural broadband and better determine the Baryon Acoustitical Oscillation radius.
 
 More information on ip monitoring shareware at [freecheckip.com](http://freecheckip.com).
 
-Blog at https://blog.tomevslin.com/about-tom-evslin.html.
+Blog at https://blog.tomevslin.com.
 
 
 
