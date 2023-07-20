@@ -1,6 +1,6 @@
 exCEO, lifelong nerd, inventor, sailor, amateur astrophysicist.
 
-now doing pro bono programming to advance rural broadband and better determine the Baryon Acoustitical Oscillation radius.
+Now working on open source shareware to failitate investigativew reporting using AI.
 
 More information on ip monitoring shareware at [freecheckip.com](http://freecheckip.com).
 
