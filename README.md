@@ -2,8 +2,6 @@ exCEO, lifelong nerd, inventor, sailor, amateur astrophysicist.
 
 Now working on open source shareware to failitate investigativew reporting using AI.
 
-More information on ip monitoring shareware at [freecheckip.com](http://freecheckip.com).
-
 Blog at https://blog.tomevslin.com.
 
 
