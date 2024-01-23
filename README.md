@@ -1,6 +1,6 @@
 exCEO, lifelong nerd, inventor, sailor, amateur astrophysicist.
 
-Now working on open source shareware to failitate investigativew reporting using AI.
+Now working on open source shareware to facilitate investigativew reporting using AI.
 
 Blog at https://blog.tomevslin.com.
 
