@@ -1,6 +1,6 @@
 exCEO, lifelong nerd, inventor, sailor, amateur astrophysicist.
 
-Now working on open source shareware ro enhance public awraeeness with AI, especially through the use of SmartTranscripts made from videos of public meetings.
+Now working on open source shareware ro enhance public awareness with AI, especially through the use of SmartTranscripts made from videos of public meetings.
 
 
 
