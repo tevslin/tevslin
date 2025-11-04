@@ -1,8 +1,6 @@
 exCEO, lifelong nerd, inventor, sailor, amateur astrophysicist.
 
-Now working on open source shareware to ennhance journalism using AI.
-
-Blog at https://blog.tomevslin.com.
+Now working on open source shareware ro enhance public awraeeness with AI, especially throught the use of SmarTranscripts made from videos of public meetings
 
 
 
